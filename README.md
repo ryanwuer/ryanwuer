@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I am a Software Engineer working in Hangzhou, China, interested in cloud-native technologies, especially observability area.
-
-Fun fact: My account ID comes from Eren Jaeger, the male protagonist of Attack on Titan, and is pronounced similarly in Chinese Pinyin.
