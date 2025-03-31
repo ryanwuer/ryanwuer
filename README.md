@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer working in Hangzhou, China, interested in cloud-native technologies, especially observability area.
+I am a Software Engineer based in Hangzhou, China. I have a strong interest in cloud-native technologies, particularly in the observability space. My expertise spans across full-stack development, allowing me to build robust and scalable applications from front-end to back-end.
+
