@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer based in Hangzhou, China. I have a strong interest in cloud-native technologies, particularly in the observability space. My expertise spans across full-stack development, allowing me to build robust and scalable applications from front-end to back-end.
+I have a strong interest in cloud-native technologies, particularly in the observability space. I am a contributor of Prometheus. My expertise spans across full-stack development, allowing me to build robust and scalable applications from front-end to back-end.
 
